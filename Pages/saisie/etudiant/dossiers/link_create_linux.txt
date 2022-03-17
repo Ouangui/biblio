@@ -1,0 +1,9 @@
+Creation de systeme d'exploitation :
+
+Liens utiles
+
+[lien 1] : https://www.linuxadictos.com/en/create-linux-distribution.html
+[lien 2] : https://www.idalko.com/build-linux-distribution/
+[lien 3] : https://www.maketecheasier.com/6-tools-to-easily-create-your-own-custom-linux-distro/
+[lien 4] : https://www.linuxfromscratch.org/
+[lien 5] : https://itsubuntu.com/tools-create-custom-linux-os/   /*tres important*/
